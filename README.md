@@ -19,8 +19,6 @@
 [![Liberapay](https://img.shields.io/badge/liberapay-donate-f6c915.svg)](https://liberapay.com/cdnjs/)
 [![tip4commit](https://img.shields.io/badge/tip4commit-info-orange.svg)](https://tip4commit.com/github/cdnjs/cdnjs)
 
-[![Throughput Graph](https://graphs.waffle.io/cdnjs/cdnjs/throughput.svg)](https://waffle.io/cdnjs/cdnjs/metrics/throughput)
-
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
