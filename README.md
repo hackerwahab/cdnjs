@@ -24,6 +24,7 @@
 ## Table of Contents
 
 * [Introduction](#introduction)
+  * [Other Repositories](#other-repositories)
   * [Support Us](#support-us)
 * [latest version URL support](#latest-version-url-support)
 * [Contributing](#contributing)
@@ -37,11 +38,21 @@
 
 ## Introduction
 
-This is the main repository to maintain the libraries' assets on CDNJS. For our website and API, please refer to the [new-website](https://github.com/cdnjs/new-website) repository. You can find all repositories at [CDNJS](https://github.com/cdnjs/) on GitHub!
+This is the main repository for cdnjs that contains all the libraries' assets that are available through the cdnjs CDN service.
 
 CDNJS is a free and open source project to organize and provide popular front-end web development resources to developers via a fast CDN infrastructure without usage limitations and fees. We want to help individual library/framework developers distribute their projects, and web developers supercharge their websites! With our great free CDN service, developers can focus on their projects and website development. Developers no longer have to spend time worrying about how to set-up a CDN for projects or website assets. We hope to make web development easier, as well as your websites and the WWW faster and safer.
 
 Currently, CDNJS is rated No. 2 ([ref](https://w3techs.com/technologies/overview/content_delivery/all)) in web front-end CDN services and has great performance. We fully support [https](https://en.wikipedia.org/wiki/HTTPS), [SPDY](https://en.wikipedia.org/wiki/SPDY), [http/2.0](https://http2.github.io/), and [SRI](https://www.w3.org/TR/SRI/). These will **boost** and **secure** your website with zero configuration. *(Note: You'll still need to take care of server-side and application layer security issues. We make it better, but we can't help you too much if you implement a bad practice.)*
+
+### Other Repositories
+
+For our website and API, please refer to the [new-website](https://github.com/cdnjs/new-website) repository.
+
+For the full cdnjs branding and brand-related assets/guidelines, please see the [brand](https://github.com/cdnjs/brand) repository.
+
+For our monthly CDN stats and usage reports, check out the [cf-stats](https://github.com/cdnjs/cf-stats) repository.
+
+You can find all our repositories at [github.com/cdnjs](https://github.com/cdnjs/) on GitHub!
 
 ### Support Us!
 
